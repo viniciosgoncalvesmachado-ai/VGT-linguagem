@@ -1,0 +1,6 @@
+Oi gente tudo bem?, eu vou falar um pouco sobre o VGT:
+Eu pensei no VGT porque o .bat(Bach) e o .ps1(PowerShell) são muitos difícil de aprender e muito detalhado ai eu fiz pra você não
+ficar estudando muito pra entemder ai vou fazer codeco varias coisas pra vocês tem um "CMD" da minha própria linguagem VGT
+Vou falar uns codeco pra vocês:
+1º cd texto - isso é pra mais codeco que ainda vou criar não funciona ne outras pasta e etc.
+2º vgt -ligar - na frente disso escrevem: mbvvs.bat - ligar outro CMD; Aprende.txt - aprender os codeco; Editor.ps1 - entra aonde vai rodar os codeco; VGT.bat - entra no arquivo principal
