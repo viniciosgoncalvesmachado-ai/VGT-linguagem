@@ -3,7 +3,8 @@ Eu estava criando um jogo usando o PowerShell o jogo era do Mario Bros, mas era 
 Essa linguagem nem é tanto complicada e nem muito difícil pra entender ela eu vou criar varias versões pra vocês toare que gostem
 
 No GitHub
-[https://github.com/viniciosgoncalvesmachado-ai/VGT-linguagem](url)
+  [GitHub](https://github.com/viniciosgoncalvesmachado-ai/VGT-linguagem)
+  
+  [Meu APP Google](https://vgtlingua.netlify.app/)
 
-No meu APP
-[https://vgtlingua.netlify.app/](url)
+O APP esta em construção, é melhor o GitHub nos vamos deixar o APP mais bonito  
